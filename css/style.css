@@ -11,7 +11,7 @@
     }
 
     a {
-        color:lightcoral;
+        color: lightcoral;
 
     }
 
@@ -36,4 +36,8 @@
 
     .wrap {
         min-height: calc(100vh - 133px);
+    }
+
+    audio {
+        display: none;
     }
