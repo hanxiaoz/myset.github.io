@@ -1,5 +1,5 @@
     body#homepage {
-        background: url("../pictures/3.jpg")center center no-repeat fixed;
+        background: url("../pictures/1.jpg")center center no-repeat fixed;
     }
 
     body#second_page {
@@ -7,7 +7,7 @@
     }
 
     body#third_page {
-        background: url("../pictures/1.jpg")center center no-repeat fixed;
+        background: url("../pictures/3.jpg")center center no-repeat fixed;
     }
 
     a {
